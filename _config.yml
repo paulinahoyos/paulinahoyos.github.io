@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Paulina Hoyos"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Mathematics Ph.D. Student"
   employer         : "The University of Texas at Austin"
-  location         : "Austin, TX"
+  location         : #"Austin, TX"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -174,19 +174,19 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  outreach:
-    output: true
-    permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  research:
+#    output: true
+#    permalink: /:collection/:path/
+#  outreach:
+#    output: true
+#    permalink: /:collection/:path/
+#  cv:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -237,7 +237,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
