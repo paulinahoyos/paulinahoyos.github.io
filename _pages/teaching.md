@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: " "
 permalink: /teaching/
 author_profile: true
 sitemap: false
@@ -18,7 +18,7 @@ Spring 2023: Introduction to Graph Theory.
 
 
 UT Austin
-======
+====
 
 Fall 2023: M383C Methods of Applied Mathematics.
 Grader. Instructor: Todd Arbogast.

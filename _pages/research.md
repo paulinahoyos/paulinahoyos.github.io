@@ -9,7 +9,6 @@ sitemap: false
 
 {% include base_path %}
 
-
 Publications
 ======
 5. The G-invariant graph Laplacian, with E. Rosen, J. Kileel, X. Cheng, Y. Shkolnisky. [arXiv]
