@@ -19,7 +19,7 @@ Education
 
 
 Honors and Awards
-====
+=
 * 2023 Summer Fellowship from the Graduate School at The University of Texas at Austin. 
 * 2021 Laureate distinction for M.S. dissertation from Universidad Nacional de Colombia.
 * 2018 Summer Program Scholarship from IMPA, Brazil.

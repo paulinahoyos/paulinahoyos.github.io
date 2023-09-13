@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Outreach Talks"
+title: " "
 permalink: /outreach/
 author_profile: true
 sitemap: false
 ---
 
 {% include base_path %}
+
+Outreach Talks
+======
 
 5. Cryptography. Sunday Morning Math Group (SMMG), UT Austin. October 2023 (upcoming).
 4. Volunteer at the Department of Mathematics Stand. Girl Day at UT Austin. February 2023.
