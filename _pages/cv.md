@@ -27,13 +27,3 @@ Honors and Awards
 * 2011 Bachilleres por Colombia "Mario Galan Gomez" Scholarship from Ecopetrol S.A., Colombia.
 
   
-#Teaching
-#======
-#  #<ul>{% for post in site.teaching %}
-#  #  {% include archive-single-cv.html %}
-#  #{% endfor %}</ul>
-    
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams

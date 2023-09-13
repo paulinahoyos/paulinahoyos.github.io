@@ -3,24 +3,15 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-sitemap: true
+sitemap: false
 ---
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
 
-#{% include base_path %}
+{% include base_path %}
 
-#{% for post in site.research reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
 
 Publications
 ======
-# <ul>{% for post in site.publications %}
-# {% include archive-single-cv.html %}
-#  #{% endfor %}</ul>
 5. The G-invariant graph Laplacian, with E. Rosen, J. Kileel, X. Cheng, Y. Shkolnisky. [arXiv]
 4. Discrete diffusion-type equation on regular graphs and its applications, with C. Cadavid, J. Jorgenson, L. Smaijlovic, and J. Velez. 
 3. On an approach for evaluating certain trigonometric character sums using the discrete time heat kernel, with C. Cadavid, J. Jorgenson, L. Smaijlovic, and J. Velez. 
@@ -29,9 +20,6 @@ Publications
 
 Presentations
 ====
-#  #<ul>{% for post in site.talks %}
-#  #  {% include archive-single-talk-cv.html %}
-#  #{% endfor %}</ul>
 5. Solving Large-Scale and Multi-Modal Systems. Collaborative Research Workshop for Women in Data Science and Mathematics (Wisdm). IPAM. August 2023. 
 4. Manifold Learning with Symmetries. IBM & SLMath Summer Graduate School on Mathematics of Big Data: Sketching and (Multi-)Linear Algebra.  IBM Almaden. July 2023.
 3. Trigonometric identities from the Heat Kernel on graphs. Texas Women in Math Symposium (TWIMS). UT Austin. March 2023.
