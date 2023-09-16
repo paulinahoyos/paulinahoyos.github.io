@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Here are PDF versions of my complete CV and my Resume. 
+Here are PDF versions of my complete [CV](https://paulinahoyos.github.io/files/Paulina_Hoyos_CV.pdf) and my [Resume](https://paulinahoyos.github.io/files/Paulina_Hoyos_Resume.pdf). 
 
 
 Education
