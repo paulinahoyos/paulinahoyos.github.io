@@ -11,7 +11,7 @@ redirect_from:
 About me
 ===
 
-I am a third-year graduate student in the Department of Mathematics at [The University of Texas at Austin](https://www.utexas.edu/). I work in applied mathematics under the advisory of Professor [Joe Kileel](https://web.ma.utexas.edu/users/jkileel/). My current research interests are in geometric methods in data science and randomized algorithms in multilinear algebra. Here is my [CV](https://paulinahoyos.github.io/files/Paulina_Hoyos_CV.pdf).
+I am a third-year graduate student in the Department of Mathematics at [The University of Texas at Austin](https://www.utexas.edu/). I work in applied mathematics under the advisory of Professor [Joe Kileel](https://web.ma.utexas.edu/users/jkileel/). My current research interests are in geometric methods in data science and randomized algorithms in multilinear algebra. Here is my [CV](https://paulinahoyos.github.io/files/CV_Paulina_Hoyos.pdf).
 
 During the 2023-2024 academic year, I am a member of the Graduate Representative Committee ([GRC](https://sites.google.com/view/utmathgsc/)) of the Department of Mathematics.
 
