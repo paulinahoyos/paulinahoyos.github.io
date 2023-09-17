@@ -11,7 +11,7 @@ sitemap: false
 
 Publications
 ======
-5. The G-invariant graph Laplacian, with E. Rosen, J. Kileel, X. Cheng, Y. Shkolnisky. [[arXiv]](https://arxiv.org/abs/2303.16169)
+5. The G-invariant graph Laplacian, with E. Rosen, J. Kileel, X. Cheng, Y. Shkolnisky. [[arXiv]](https://arxiv.org/abs/2303.17001)
 4. Discrete diffusion-type equation on regular graphs and its applications, with C. Cadavid, J. Jorgenson, L. Smaijlovic, and J. Velez. [[arXiv]](https://arxiv.org/abs/2208.11733) [[Journal]](https://www.tandfonline.com/doi/abs/10.1080/10236198.2023.2219784?journalCode=gdea20)
 3. On an approach for evaluating certain trigonometric character sums using the discrete time heat kernel, with C. Cadavid, J. Jorgenson, L. Smaijlovic, and J. Velez. [[arXiv]](https://arxiv.org/abs/2201.07878) [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0195669822001317)
 2. An integer factorization algorithm which uses diffusion as a computational engine, with C. Cadavid, J. Jorgenson, L. Smaijlovic, and J. Velez. [[arXiv]](https://arxiv.org/abs/2104.11616)
