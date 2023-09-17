@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Paulina Hoyos"
-  avatar           : "images/picture.jpg"
+  avatar           : "picture.jpg"
   bio              : "paulinah[at]utexas[dot]edu"
   employer         : "2515 Speedway, PMA 10.142 <br> Department of Mathematics <br> University of Texas at Austin"
   location         : #"Austin, TX"
