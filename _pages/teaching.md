@@ -12,9 +12,9 @@ Mentorship
 ======
 I mentor undergraduate reading projects as part of the Undergraduate Reading Program (DRP) at UT Austin. The topics have been:
 
-*Fall 2023: Randomized Algorithms in Numerical Linear Algebra.
+* Fall 2023: Randomized Algorithms in Numerical Linear Algebra.
 
-*Spring 2023: Introduction to Graph Theory.
+* Spring 2023: Introduction to Graph Theory.
 
 
 UT Austin
