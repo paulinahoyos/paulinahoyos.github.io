@@ -8,23 +8,19 @@ sitemap: false
 
 {% include base_path %}
 
-Organizing
-======
+Outreach
+====
 
-* Coordinator, [Sunday Morning Math Group](https://web.ma.utexas.edu/users/smmg/) (SMMG), The University of Texas at Austin. Fall 2025–Spring 2026 and Fall 2026–Spring 2027.
-
-* Organizer, Junior Applied Mathematics Seminar, Department of Mathematics, The University of Texas at Austin. Spring 2024.
-
-* Member, Graduate Representative Committee ([GRC](https://sites.google.com/view/utmathgsc/)), Department of Mathematics, The University of Texas at Austin. Fall 2023–Spring 2024.
+I coordinate the [Sunday Morning Math Group](https://web.ma.utexas.edu/users/smmg/) (SMMG) at UT Austin, an outreach program for middle and high school students at UT Austin.
 
 
 Outreach talks and volunteering
 ======
 
-6. Volunteer at Sonia Kovalevsky Day and Math Fun Day with the Girl Scouts of Central Texas, UT Austin. November 2023.
-5. Secure Communication with Cryptography. Sunday Morning Math Group (SMMG), UT Austin. October 2023.
-4. Volunteer at the Department of Mathematics Stand, Girl Day at UT Austin. February 2023.
-3. Introduction to Quantum Computing: What is and what isn't a quantum computer? Sunday Morning Math Group (SMMG), UT Austin. January 2023.
-2. Random Walks on Graphs. Sunday Morning Math Group (SMMG), UT Austin. November 2022.
-1. Random Walks on Graphs. Research in Math Club, LASA High School, Austin, TX. October 2022.
+October 2023: Secure communication with cryptography (SMMG)  
+January 2023: Introduction to quantum computing — what is and what isn't a quantum computer? (SMMG)  
+November 2022: Random walks on graphs (SMMG)  
+October 2022: Random walks on graphs (Research in Math Club, LASA High School)  
+November 2023: Volunteer, Sonia Kovalevsky Day and Math Fun Day with the Girl Scouts of Central Texas  
+February 2023: Volunteer, Department of Mathematics stand, Girl Day at UT Austin
 
