@@ -11,7 +11,7 @@ sitemap: false
 Outreach
 ====
 
-I coordinate the [Sunday Morning Math Group](https://web.ma.utexas.edu/users/smmg/) (SMMG) at UT Austin, an outreach program for middle and high school students at UT Austin.
+I coordinate the [Sunday Morning Math Group](https://web.ma.utexas.edu/users/smmg/) (SMMG) at UT Austin, an outreach program for middle and high school students in the Austin area.
 
 
 Talks and volunteering
