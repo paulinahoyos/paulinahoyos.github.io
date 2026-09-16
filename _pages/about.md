@@ -11,21 +11,18 @@ redirect_from:
 About me
 ===
 
-I am a third-year graduate student in the Department of Mathematics at [The University of Texas at Austin](https://www.utexas.edu/). I work in applied mathematics under the advisory of Professor [Joe Kileel](https://web.ma.utexas.edu/users/jkileel/). My current research interests are in geometric methods in data science and randomized algorithms in multilinear algebra. Here is my [CV](https://paulinahoyos.github.io/files/CV_Paulina_Hoyos.pdf).
+I am a Ph.D. candidate in the Department of Mathematics at [The University of Texas at Austin](https://www.utexas.edu/), working in applied mathematics under the advisory of Professor [Joe Kileel](https://web.ma.utexas.edu/users/jkileel/). I expect to graduate in Spring 2027.
 
-During the 2023-2024 academic year, I am a member of the Graduate Representative Committee ([GRC](https://sites.google.com/view/utmathgsc/)) of the Department of Mathematics.
+My research develops computational methods that exploit symmetry in high-dimensional data. I work on manifold learning and dimensionality reduction for data sets invariant under compact group actions, using representation theory to obtain faster convergence and lower computational cost, with applications to cryo-electron microscopy. I am also interested in randomized iterative algorithms for tensor linear systems and regression, and in spectral methods on graphs.
+
+Here is my [CV](https://paulinahoyos.github.io/files/CV_Paulina_Hoyos.pdf).
+
+I am currently on the job market for postdoctoral positions in computational and applied mathematics.
 
 
 Updates
 ===
-* Fall 2023: I am looking for an internship for the Summer of 2024 where I can apply my Machine Learning and Data Science knowledge!
-* August 2023: I participated in the [Collaborative Research Workshop for Women in Data Science and Mathematics](https://www.ipam.ucla.edu/programs/special-events-and-conferences/women-in-data-science-and-mathematics/) at [IPAM](https://www.ipam.ucla.edu/), UCLA. 
-* July 2023: I attended the [Mathematics of Big Data: Sketching and (Multi-) Linear Algebra](https://www.slmath.org/summer-schools/1064) Summer Graduate School at [IBM Almaden](https://research.ibm.com/labs/almaden).
-
-
-
-
- 
-
-
+* Fall 2026: I am coordinating the [Sunday Morning Math Group](https://web.ma.utexas.edu/users/smmg/) (SMMG) outreach program at UT Austin.
+* July 2026: New preprint, *Group Invariant Spectral Embedding*, is on [arXiv](https://arxiv.org/abs/2607.08987).
+* Summer 2025: I returned to [IBM Research](https://research.ibm.com/) at the Thomas J. Watson Research Center as a Senior Research Scientist Intern, working with Shashanka Ubaru and Lior Horesh.
 
