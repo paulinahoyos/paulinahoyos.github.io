@@ -1,12 +1,13 @@
+# main links
 main:
-  - title: "Research"
-    url: /research/
- 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Teaching"
     url: /teaching/
- 
+
   - title: "Outreach"
     url: /outreach/
- 
+
   - title: "CV"
     url: /files/CV_Paulina_Hoyos.pdf
