@@ -19,7 +19,7 @@ I am a Ph.D. candidate in the [Department of Mathematics](https://web.ma.utexas.
 My research focuses on structure-driven mathematical methods for data analysis. I leverage manifold structure, tensor structure, and symmetry structure in data to develop efficient algorithms for the preprocessing, compression, and interpretation of highly complex datasets.
 
 
-During the summers of 2024 and 2025, I was a research intern at [IBM Research](https://research.ibm.com/), working with Shashanka Ubaru and Lior Horesh. Previously I completed an M.S. in Mathematics at Universidad Nacional de Colombia and a B.S. in Physics at Universidad de los Andes, Colombia. 
+During the summers of 2024 and 2025, I was a research intern at [IBM Research](https://research.ibm.com/), working with Shashanka Ubaru and Lior Horesh. Previously, I completed an M.S. in Mathematics at Universidad Nacional de Colombia and a B.S. in Physics at Universidad de los Andes, Colombia. 
  
 I am currently on the job market for postdoctoral positions. Here is my [CV](https://paulinahoyos.github.io/files/CV_Paulina_Hoyos.pdf).
 
